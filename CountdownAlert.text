@@ -1,0 +1,7 @@
+<stringtable>
+  <ID name="Self_ToolTip">Generates an alert after an elapsed time</ID>
+  <ID name="Time_ToolTip">The total time to countdown from. In the format of Hours:Minutes:Seconds or Minutes:Seconds or just Seconds</ID>
+  <ID name="Actions_Reset_ToolTip">Resets the clock to the Time value.</ID>
+  <ID name="Alerts_onCountdownTick_ToolTip">Emitted every second during the countdown. Intended to connect to a scene Text layer for visualization of the current countdown time</ID>
+  <ID name="Alerts_onCountdownEnd_ToolTip">Emitted when the countdown reaches 0. Use the global 'Reset' button to reset the countdown.</ID>
+</stringtable>

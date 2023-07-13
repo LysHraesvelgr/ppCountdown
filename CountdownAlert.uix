@@ -1,0 +1,5 @@
+<uix type="Source">
+  <add_menu_group>Alert Objects</add_menu_group>
+  <category>Alert Generators</category>
+  <name>Countdown Alert</name>
+</uix>
